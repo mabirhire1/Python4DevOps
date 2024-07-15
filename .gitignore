@@ -1,0 +1,30 @@
+# Python virtual environment
+venv/
+env/
+Ks-venv/
+*.pyc
+__pycache__/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Noteboo# Environment variables
+.env
+
+# Database files
+*.db
+*.sqlite3
+
+# Backup files
+*~
+*.bak
+
+# Temporary files
+*.tmp
+
+# Sublime Text
+*.sublime-workspace
+
+# mkdocs documentation
+/site
